@@ -16,3 +16,11 @@
 **Link(s) to work**
 
 1. [Basic HTML and HTML5 on FreeCodeCamp](https://github.com/minhajulalamcse/freecodecamp-responsive-web-design-certification/tree/main/basic-css)
+
+### Day 3: October 18, Sunday
+
+**Today's Progress**: I've completed 27 lessons in Applied Visual Design section in Responsive Web Design Certification on FreeCodeCamp.
+
+**Link(s) to work**
+
+1. [Basic HTML and HTML5 on FreeCodeCamp](https://github.com/minhajulalamcse/freecodecamp-responsive-web-design-certification/tree/main/applied-visual-design)
